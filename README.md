@@ -103,10 +103,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    background based on the cursor position, I want to utilize JavaScript to the fullest degree in order to make my future
    websites much more inline with my creativity.
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://www.youtube.com/watch?v=rdfSkuotnPo)
-
 ## License
 
     Copyright [Vince Hernandez]
